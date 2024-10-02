@@ -1,1 +1,1 @@
-# .github
+We help developers and their teams grow by providing training, technical strategy, and custom development for organizations. When we're not busy doing that, we build apps for marketplaces like Monday.com, JIRA, and such. 
